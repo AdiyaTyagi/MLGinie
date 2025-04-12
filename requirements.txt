@@ -3,4 +3,3 @@ gunicorn
 pandas
 plotly
 scikit-learn
-base64
