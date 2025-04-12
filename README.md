@@ -35,8 +35,8 @@ MLGenie is an AI-powered machine learning pipeline that allows users to upload t
 
 ## 🎥**Project Links**
 
-Deploy Link: [LINK](https://mlginie.onrender.com)
-Group Presentation Video : [LINK](https://drive.google.com/file/d/1MIGc53VWvlZa973NU-eRKT69P5f2PFvA/view?usp=sharing)
+- Deploy Link: [LINK](https://mlginie.onrender.com)
+- Team Presentation Link : [LINK](https://youtu.be/zF999tGM3L4)
 
 ---
 
