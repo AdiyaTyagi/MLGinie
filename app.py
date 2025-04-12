@@ -419,5 +419,8 @@ def download_results_csv(n_clicks):
     return None
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# ✅ Expose the server for Gunicorn
+server = app.server
+
+if __name__ == "__main__":
+    app.run_server(debug=True)
