@@ -2,6 +2,5 @@ dash
 gunicorn
 pandas
 plotly
-pickle 
 sklearn
 base64
